@@ -1,2 +1,2 @@
-this is read me
+this is readme
 updated
